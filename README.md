@@ -1,10 +1,10 @@
-## Hi! I’m Jamera Mellyn 🌿
+## Hi! I’m Jamera Mellyn 🍵
 
 I’m a Data Science undergraduate with a minor in Cognitive Science at the University of California, San Diego.
 
 I’m interested in software engineering and embedded systems, especially projects that connect software with the physical world.
 
-Originally from Orange County, California ☀️ Outside of school, I enjoy making art! 🎨
+I’m from Orange County, California! Outside of school, I enjoy making art and drinking matcha. 🎨🍵
 
 ## Tech Stack 🌱
 
@@ -41,3 +41,21 @@ Originally from Orange County, California ☀️ Outside of school, I enjoy maki
 ![Git](https://img.shields.io/badge/Git-6B9080?style=for-the-badge&logo=git&logoColor=F6FFF8)
 ![Docker](https://img.shields.io/badge/Docker-6B9080?style=for-the-badge&logo=docker&logoColor=F6FFF8)
 ![Linux](https://img.shields.io/badge/Linux-6B9080?style=for-the-badge&logo=linux&logoColor=F6FFF8)
+
+## GitHub Stats 🍵
+
+<div align="center">
+  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=jameramellyn&theme=dark" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=jameramellyn&theme=dark" alt="Top Repositories" />
+</div>
+
+## On Repeat 🎧
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jameramellyn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6b9080&bar_color_cover=false&mode=dark" alt="Jamera's Spotify listening status">
+  </a>
+</p>
