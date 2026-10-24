@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=jameramellyn&theme=glass" alt="GitHub Stats" />
+  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=jameramellyn&theme=light" alt="GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=YOUR_USERNAME&theme=glass" alt="Top Repositories" />
+  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=jameramellyn&theme=light" alt="Top Repositories" />
 </div>
 
