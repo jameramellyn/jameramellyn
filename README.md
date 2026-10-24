@@ -44,13 +44,10 @@ I’m from Orange County, California! Outside of school, I enjoy making art and 
 
 ## GitHub Stats 🍵
 
-<div align="center">
-  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=jameramellyn&theme=dark" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jameramellyn&show_icons=true&bg_color=f6fff8&title_color=6b9080&text_color=355247&icon_color=6b9080&border_color=cce3de&border_radius=16&hide_rank=true" alt="Jamera's GitHub stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=jameramellyn&theme=dark" alt="Top Repositories" />
-</div>
 
 ## On Repeat 🎧
 
